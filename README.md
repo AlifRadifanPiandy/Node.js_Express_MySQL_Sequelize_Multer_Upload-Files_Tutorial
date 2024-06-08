@@ -25,18 +25,13 @@ The application provides an interface for uploading files. The files are stored 
 
 Currently, there are no tests specified for the project.
 
-## Built With
+## Contributing
 
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [MySQL](https://www.mysql.com/)
-- [Sequelize](https://sequelize.org/)
-- [Multer](https://www.npmjs.com/package/multer)
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Alif Radifan Piandy, the author of this project.
+This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
